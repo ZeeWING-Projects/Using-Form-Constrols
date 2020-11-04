@@ -1,0 +1,12 @@
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\bin\Debug\Using From Controls.exe.config
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\bin\Debug\Using From Controls.exe
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\bin\Debug\Using From Controls.pdb
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using From Controls.csprojAssemblyReference.cache
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using_From_Controls.Form1.resources
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using_From_Controls.Properties.Resources.resources
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using From Controls.csproj.GenerateResource.cache
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using From Controls.csproj.CoreCompileInputs.cache
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using From Controls.exe
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using From Controls.pdb
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using_From_Controls.GetUserDataWindow.resources
+F:\5th semester\C#\Extra Concepts\Using From Controls\Using From Controls\obj\Debug\Using_From_Controls.DisplayProfile.resources
